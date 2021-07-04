@@ -42,10 +42,10 @@ To build a classification methodology to predict the quality of electronic wafer
 
 **Architecture**
 
-![](https://github.com/devil-cyber/asset/raw/main/img1.jpg)
+![](https://github.com/mayanklohani19/WaferFaultDetection/asset.jpg)
 
 **Data Description**
-[Dataset link](https://github.com/devil-cyber/WaferFaultDetection/blob/master/Training_FileFromDB/InputFile.csv)
+[Dataset link](https://github.com/mayanklohani19/WaferFaultDetection/tree/master/Training_FileFromDB)
 
 The electronic wafer dataset consist of 592 column
 
