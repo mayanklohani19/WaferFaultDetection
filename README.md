@@ -42,7 +42,7 @@ To build a classification methodology to predict the quality of electronic wafer
 
 **Architecture**
 
-![] (https://github.com/mayanklohani19/WaferFaultDetection/blob/master/asset.jpg)
+![] (https://github.com/mayanklohani19/WaferFaultDetection/blob/raw/asset.jpg)
 
 **Data Description**
 [Dataset link](https://github.com/mayanklohani19/WaferFaultDetection/tree/master/Training_FileFromDB)
